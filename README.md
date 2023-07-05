@@ -1,5 +1,5 @@
 # All About ME :space_invader:
-Welcome to my official Learn and Code github repository 
+Welcome to my official github repository 
 
 ## What am I interested in learning? :mortar_board:
 I am interested in learning ways that I can grow and I can become a leader and Senior Developer.
