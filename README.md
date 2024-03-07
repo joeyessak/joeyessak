@@ -2,7 +2,11 @@
 Welcome to my official github repository 
 
 ## What am I interested in learning? :mortar_board:
-I am interested in learning ways that I can grow and I can become a leader.
+- Ways I can grow as a leader
+- C# ASP.Net
+- Azure
+- Unity
+- VR development
 
 ## What are you working on? :computer:
 Currently I am a Senior DevOps engineer at In Time Tec.
