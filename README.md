@@ -1,20 +1,72 @@
-# All About ME :space_invader:
-Welcome to my official github repository 
+# 👋 Hi, I’m Joey
 
-## What am I interested in learning? :mortar_board:
-- Ways I can grow as a leader
-- C# ASP.Net
-- Azure
-- Unity
-- VR development
+Engineering leader building AI-native platforms, scalable cloud systems, and agentic workflow architectures.
 
-## What are you working on? :computer:
-Currently I am a Senior DevOps engineer at In Time Tec.
+I focus on turning complex systems into operational leverage — aligning platform strategy, AI capabilities, and delivery governance to create measurable business impact.
 
-## What's your favorite hobby? :art:
-Hobbies.. Thats a tough one. I have never looked at things I enjoy as Hobbies. 
-So with that said. Some of the things I really enjoy are
-- Learning
+---
+
+## 🚀 What I’m Working On
+
+Currently building:
+
+- Production-grade AI applications
+- LLM orchestration systems (RAG, memory, evaluation pipelines)
+- Cloud-native infrastructure (AWS, Kubernetes, CI/CD)
+- Platform governance and developer experience frameworks
+- AI deployment guardrails for secure, compliant environments
+
+---
+
+## 🧠 Areas of Focus
+
+- Agentic workflows & internal automation systems  
+- Distributed systems & event-driven architecture  
+- Infrastructure as code & GitOps  
+- Observability and reliability engineering  
+- Enterprise AI adoption strategy  
+
+---
+
+## 🛠️ Core Stack
+
+**Cloud & Platform**
+- AWS
+- Kubernetes
+- Docker
+- Terraform / IaC
+- CI/CD pipelines
+- Observability (metrics, logs, tracing)
+
+**AI & Data**
+- OpenAI / Anthropic APIs
+- Retrieval-Augmented Generation (RAG)
+- Vector databases
+- Prompt engineering & evaluation frameworks
+- Python-based ML tooling
+
+---
+
+## 🏗️ Philosophy
+
+AI increases force.  
+Structure determines outcome.
+
+Strong platforms create leverage.  
+Well-designed systems absorb complexity.
+
+---
+
+## 🎨 Outside of Engineering
+
+When I’m not building systems, I enjoy:
+
 - Painting
-- Animating
 - Airbrushing
+- Creative design work
+- Learning new technologies
+
+---
+
+📍 Always building. Always refining.
+
