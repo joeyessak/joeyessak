@@ -30,7 +30,7 @@ Builder of systems that turn strategy into shipped software.
 
 **Cloud & Platform**
 - AWS
-- Axure
+- Azure
 - Railway
 - Docker
 - Kubernetes
