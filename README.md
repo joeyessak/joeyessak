@@ -1,11 +1,11 @@
-# Joey Essak 👋
+# Joey Essak
 
 Enterprise Platform & AI Engineering Leader  
 Builder of systems that turn strategy into shipped software.
 
 ---
 
-## What I Build 🚀
+## What I Build
 
 - AI-enabled applications (LLMs, RAG pipelines, agent workflows)
 - Internal developer platforms & cloud-native infrastructure
@@ -14,7 +14,7 @@ Builder of systems that turn strategy into shipped software.
 
 ---
 
-## Core Stack 🧠
+## Core Stack
 
 **Languages**
 - Python (LLMs, LangChain, FastAPI, ML workflows)
@@ -39,7 +39,7 @@ Builder of systems that turn strategy into shipped software.
 
 ---
 
-## What I Care About 🎯
+## What I Care About
 
 - Turning AI from experiment → enterprise capability
 - Designing platforms that increase velocity without sacrificing governance
