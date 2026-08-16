@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6d28d9&height=200&section=header&text=Joey%20Essak&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Platform%20and%20AI%20Engineering%20Leader&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&width=700&lines=Builder+of+systems+that+turn+strategy+into+shipped+software.;Turning+AI+from+experiment+%E2%86%92+enterprise+capability.;Shipping+real+software+%E2%80%94+not+slideware." alt="Typing SVG" />
+<p>
+<em>Builder of systems that turn strategy into shipped software.</em>
+</p>
 
 </div>
 
